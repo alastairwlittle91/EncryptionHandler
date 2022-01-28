@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EncryptionHandler</id>
+    <version>1.0.0</version>
+    <authors>Alastair Little</authors>
+    <description>This provides end to end encryption capabilities for consumers and subscribers.</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Dev\EncryptionHandler\bin\Debug\net6.0\EncryptionHandler.dll" target="lib\net6.0\EncryptionHandler.dll" />
+  </files>
+</package>
