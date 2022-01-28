@@ -1,7 +1,0 @@
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.GlobalUsings.g.cs
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.csproj.AssemblyReference.cache
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.AssemblyInfoInputs.cache
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.AssemblyInfo.cs
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.csproj.CoreCompileInputs.cache
-C:\Dev\PermissionsMiddleware\obj\Debug\net6.0\PermissionsMiddleware.MvcApplicationPartsAssemblyInfo.cache
