@@ -1,4 +1,4 @@
-namespace PermissionsMiddleware.Models;
+namespace EncryptionHandler.Models;
 
     public class PermissionTokenInformation
     {
