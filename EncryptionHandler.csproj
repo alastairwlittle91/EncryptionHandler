@@ -8,7 +8,7 @@
     <Version>1.0.1</Version>
     <Authors>Alastair Little</Authors>
     <Company>AWL</Company>
-    <Description>This provides end to end encryption capabilities for consumers and subscribers.</Description>
+    <Description>This provides end to end encryption and decryption capabilities for consumers and subscribers.</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
