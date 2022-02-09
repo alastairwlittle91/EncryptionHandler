@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>AWLEncryptionHandler</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Alastair Little</Authors>
     <Company>AWL</Company>
     <Description>This provides end to end encryption capabilities for consumers and subscribers.</Description>
